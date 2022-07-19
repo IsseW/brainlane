@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 crossbeam = "0.8.1"
 array-init = "2.0.1"
+console = "0.15.0"
